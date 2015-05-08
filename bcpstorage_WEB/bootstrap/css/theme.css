@@ -1,0 +1,80 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.form-upload {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.divider-vertical-up {
+    height: 1px;
+    margin-top: 5px;
+    border-top: 1px solid #F2F2F2;
+}
+
+.divider-vertical-down {
+    height: 5px;
+    margin-bottom: 9px;
+    border-top: 1px solid #F2F2F2;
+}
+
+#loginform{
+    width: 230px;
+    height: 250px;
+    margin: auto;
+    padding: auto 0;
+}
+
+#boxloginform{
+    width: 270px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: auto 0;
+    border: #c0c0c0 1px solid;
+}
+
+#boxdownloadform{
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    margin-top: 50px;
+    padding: auto 0;
+    border: #c0c0c0 1px solid;
+}
+
+#downloadform{
+    width: 260px;
+    height: 320px;
+    margin: auto;
+    padding: auto 0;
+}
+
+.downloadlink {
+    font: bold 18px Arial;
+    text-decoration: none;
+    background-color: #21BEDE;
+    color: black;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}

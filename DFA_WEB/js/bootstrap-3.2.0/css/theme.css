@@ -1,0 +1,56 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+.form-upload {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.divider-vertical-up {
+    height: 1px;
+    margin-top: 5px;
+    border-top: 1px solid #F2F2F2;
+}
+
+.divider-vertical-down {
+    height: 5px;
+    margin-bottom: 9px;
+    border-top: 1px solid #F2F2F2;
+}
+
+#loginform{
+    width: 230px;
+    height: 370px;
+    margin: auto;
+    padding: auto 0;
+}
+
+#boxloginform{
+    width: 270px;
+    height: 320px;
+    margin: auto;
+    margin-top: 30px;
+    padding: auto 0;
+    border: #c0c0c0 1px solid;
+    -webkit-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+}
+
