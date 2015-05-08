@@ -1,0 +1,1 @@
+WinSCP harus diinstall dan foldernya harus dimasukkan ke environment variable PATH

@@ -1,0 +1,126 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:black;
+    color:white;
+    font:normal 12pt/100% times New Roman,tahoma,sans-serif;
+}
+div.page{
+    background-color:white;
+    color:#000;
+    min-height:21cm;
+    margin:0.5cm 0.5cm;
+    padding: 0.5cm 1cm 1cm 1cm;
+    min-width:14cm;
+    font-family:arial;
+}
+div.header{
+    background-color:white;
+    font-family:"Times New Roman",serif;	
+    padding-bottom:.5cm;
+    text-align:center;
+    color:black;
+}
+div.header2{
+    text-align:center;
+    font-size:13pt;
+    font-weight:bold;
+    line-height:120%;
+    padding-top:0.2cm;
+}
+div.header div.h1{
+    font-size:16pt;
+    font-weight:bold;
+    line-height:18pt;	
+}
+div.header div.h2{
+    font-size:16pt;	
+    line-height:16pt;	
+}
+div.header div.h3{
+    font-size:11pt;	
+    line-height:12pt;	
+}
+#head{
+    color:#000;
+    font-size:15px;
+    font-family:verdana;
+    width:100%;
+    font-weight:bold;
+}
+#right{
+    width:50%;
+    text-align:right;
+}
+#content{
+    color:#000;
+    width:100%;
+    background-color:#000;
+}
+th{
+    background-color:#fff;
+}
+td{
+    background-color:#fff;
+    padding:2px;
+}
+#data{
+    font-size:12px;
+}
+h1{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    border: 5px solid #000;
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.title{
+    font-size: 13px;
+    margin-bottom: 10px;
+    clear: both;
+}
+.title label{
+    font-weight: bold;
+}
+.meta{
+    text-align: right;
+    margin-top: 0em;
+    font-size: 13px;
+}
+.meta label{
+    font-weight: bold;
+}
+.gridview{
+    clear: both;
+    background-color: #888;
+    color: #000;
+    font-size: 12px;
+    width: 100%;
+}
+table thead{
+    height: 25px;
+}
+table .bold{
+    font-weight: bold;
+}
+.numerik{
+    text-align: right;
+    vertical-align:top;
+}
+.numeric{
+    text-align: right;
+    vertical-align:top;
+}
+.date{
+    text-align: center;
+    vertical-align:top;
+}
+
+.gridview  td{
+    vertical-align:top;
+}

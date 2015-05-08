@@ -1,0 +1,22 @@
+﻿body{
+    background-color:white;
+    font:normal 12pt/100% times New Roman,tahoma,sans-serif;
+}
+div.page{
+    margin:auto;
+    min-height:20cm;
+    margin:auto;
+    padding:0 1cm;	
+    min-width:20cm;
+}
+div.header{		
+    padding-bottom:.5cm;
+}
+.tombol{
+    display:none;
+}
+
+table, th, td
+{
+border: 1px solid black;
+}

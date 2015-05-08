@@ -1,0 +1,41 @@
+.center{
+    text-align: center;
+}
+
+.kanan{
+    text-align: right;
+}
+
+.kiri{
+    text-align: left;
+}
+
+.scroll{
+    overflow: scroll;
+    height: 100px;
+}
+
+.scroll2{
+    overflow: scroll;
+    height: 300px;
+    width: auto;
+}
+.table-nonfluid {
+    width: auto;
+}
+#editor {overflow:scroll;
+         width: 500px;
+         height: 500;
+}
+#label{
+    width: 70px;
+    display: inline-block;
+}
+.trwarna{
+    background-color: #edde34;
+    color: white;
+}
+.datepicker-relative{
+position: relative;
+top: 0;left: 0;right: 0;bottom: 0;
+font-size: 14px;}

@@ -1,0 +1,8 @@
+List file *.ctl dari FTP
+Bila file ctl ada di local Archive maka pindahkan file ctl di ftp ke ftp archive
+Bile file ctl belum ada di local Archive maka download file ke local
+
+Hapus file yang ada di local bila file txt di local tidak sama ukurannya dengan ftp 
+Proses file yang ada di local 
+Bila proses berhasil copy file ctl ke local archive
+Hapus semua file ctl yang ada di local

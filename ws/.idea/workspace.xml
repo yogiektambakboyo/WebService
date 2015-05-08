@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adefc787-2652-453f-901a-54096f904981" name="Default" comment="" />
+    <ignored path="ws.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1408929644336" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/AndroidManifest.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405667617456" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/values/strings.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1402978491401" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/main.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404196111546" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/MainActivity.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569157477" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/build.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1402978491702" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/JSONParser.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569122160" ignored="false" />
+    <file path="/MainActivity.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1407891569223" ignored="false" />
+    <file path="/main.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1402989467457" ignored="false" />
+    <file path="/Dummy.txt" changelist="adefc787-2652-453f-901a-54096f904981" time="1410151052106" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listcabang.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403059912665" ignored="false" />
+    <file path="/listcabang.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1402992165667" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/CustomAdapter.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1402992553835" ignored="false" />
+    <file path="/CustomAdapter.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1402992510908" ignored="false" />
+    <file path="/login.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1409646072339" ignored="false" />
+    <file path="/CabangList.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403056240612" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/CabangList.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403148521870" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorMenu.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405674283631" ignored="false" />
+    <file path="/OperatorMenu.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405674281199" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatormenu.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403064522318" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/cabang.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403059846631" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/drawable/btn_red.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403060333014" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/drawable/btn_blue.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403060378946" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/drawable/btn_white.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403060405058" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/values/styles.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403060503963" ignored="false" />
+    <file path="/styles.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403060501530" ignored="false" />
+    <file path="/operatormenu.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403062876266" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatormenu.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405736505381" ignored="false" />
+    <file path="/listoperatormenu.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405736243192" ignored="false" />
+    <file path="/operatortask.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403066837683" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortask.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403067056027" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortask.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403079613470" ignored="false" />
+    <file path="/listoperatortask.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403079613470" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTask.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569263558" ignored="false" />
+    <file path="/OperatorTask.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403154211737" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/gen/com/bcp/WMSAndroid/Manifest.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405072945352" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/gen/com/bcp/WMSAndroid/R.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1404198445848" ignored="false" />
+    <file path="/operatortaskbpb.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403073842323" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403074181319" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403080928853" ignored="false" />
+    <file path="/OperatorTaskBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403079110417" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskbpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403074715280" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskbpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403075692633" ignored="false" />
+    <file path="/listoperatortaskbpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403075692633" ignored="false" />
+    <file path="/operatortaskreceiveretur1.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403078195784" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskreceiveretur1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403078488836" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskreceiveretur1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1406191124137" ignored="false" />
+    <file path="/listoperatortaskreceiveretur1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567910920" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskRR1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403079225005" ignored="false" />
+    <file path="/OperatorTaskRR1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403079353239" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskRR_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569580880" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverabb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403083040232" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskmoverabb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567022245" ignored="false" />
+    <file path="/listoperatortaskmoverabb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405566957984" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMABB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569339142" ignored="false" />
+    <file path="/OperatorTaskMABB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403083993703" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/gen/com/bcp/WMSAndroid/BuildConfig.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405072945352" ignored="false" />
+    <file path="/operatortaskmoverbpb1.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403144316346" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverbpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403144725692" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverrjt1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403144885999" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverrpl1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403151910208" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskpickerpck1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403144987106" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskshipperpck1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403145065252" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskmoverbpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405566800596" ignored="false" />
+    <file path="/listoperatortaskmoverbpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405566755233" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMBPB1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403145824473" ignored="false" />
+    <file path="/OperatorTaskMBPB1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403145804937" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569346400" ignored="false" />
+    <file path="/operatortaskmoverrjt1.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403146509767" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskmoverrjt1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405568109062" ignored="false" />
+    <file path="/listoperatortaskmoverrjt1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405568095712" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMRJT_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569501181" ignored="false" />
+    <file path="/OperatorTaskMRJT_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403148144322" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskmoverrpl1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567259290" ignored="false" />
+    <file path="/listoperatortaskmoverrpl1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567240424" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMRPL_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403151097713" ignored="false" />
+    <file path="/OperatorTaskMRPL_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403152334738" ignored="false" />
+    <file path="/operatortaskmoverrpl1.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403150699787" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMRPLADMIN_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569514255" ignored="false" />
+    <file path="/operatortaskpickingpck1.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403153331897" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskpickingpck1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405590282576" ignored="false" />
+    <file path="/listoperatortaskpickingpck1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405565699891" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskPPCK1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403153991683" ignored="false" />
+    <file path="/OperatorTaskPPCK1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403153990414" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskPPCK_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406190124906" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskSPCK_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569595736" ignored="false" />
+    <file path="/operatortaskshippingpck1.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403154395079" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskshippingpck1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405568508406" ignored="false" />
+    <file path="/listoperatortaskshippingpck1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405568489076" ignored="false" />
+    <file path="/OperatorTaskSPCK_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1403154919058" ignored="false" />
+    <file path="/operatortaskreceivebpb2caribarangbarcode.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405147754531" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskRBPB_2.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569551266" ignored="false" />
+    <file path="/OperatorTaskRBPB_2.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405148069132" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskRBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569538520" ignored="false" />
+    <file path="/OperatorTaskRBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1404118628312" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskreceivebpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405566609727" ignored="false" />
+    <file path="/operatortaskreceivebpb2getsatuan.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404090819531" ignored="false" />
+    <file path="/operatortaskreceivebpb2getrakslot.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403842417716" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskreceivebpb2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1406190337384" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskreceivebpb2caribrgmanual.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1403850485183" ignored="false" />
+    <file path="/operatortaskreceivebpb2caribarangmanual.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404804335515" ignored="false" />
+    <file path="/operatortaskreceivebpb2cekbin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403928325984" ignored="false" />
+    <file path="/operatortaskreceivebpb2cekrakslot.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1403929785685" ignored="false" />
+    <file path="/operatortaskreceivebpb2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404092796460" ignored="false" />
+    <file path="D:/xampp/htdocs/WMS/application/models/bpb_model.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404094954561" ignored="false" />
+    <file path="/operatortaskreceivebpb2cekjumlah.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404100689369" ignored="false" />
+    <file path="/operatortaskreceivebpb2insert.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404116732728" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/PrefHandler.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569616681" ignored="false" />
+    <file path="/PrefHandler.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1404191294616" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405072934383" ignored="false" />
+    <file path="/operatortaskreceivebpb2listbrg.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404197947057" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskRBPB_2_ListBrg.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1404807349332" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskreceivebpb2listbrg.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404198584945" ignored="false" />
+    <file path="/operatortaskreceivebpb2listbrg.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404198584945" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskreceivebpb2listbrg.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567827631" ignored="false" />
+    <file path="/listoperatortaskreceivebpb2listbrg.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567587842" ignored="false" />
+    <file path="/OperatorTaskRBPB_2_ListBrg.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1404807062100" ignored="false" />
+    <file path="/operatortaskmoverbpb2.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1404975606454" ignored="false" />
+    <file path="/OperatorTaskMBPB_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1404977374525" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMBPB_2.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569402411" ignored="false" />
+    <file path="/OperatorTaskMBPB_2.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405399364365" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverbpb2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404980137444" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskmoverbpb2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567766672" ignored="false" />
+    <file path="/listoperatortaskmoverbpb2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405567723609" ignored="false" />
+    <file path="/operatortaskmoverbpb2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404979249507" ignored="false" />
+    <file path="/operatortaskmoverbpb2caribin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405498100402" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatortaskMBPB_3.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405071482076" ignored="false" />
+    <file path="/OperatortaskMBPB_3.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405071762021" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverbpb3.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404982019477" ignored="false" />
+    <file path="/operatortaskmoverbpb3.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1404981996138" ignored="false" />
+    <file path="/operatortaskmoverbpb2prosesambil.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405046680962" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskmoverbpb4.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405148474158" ignored="false" />
+    <file path="/operatortaskmoverbpb4.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405134640443" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMBPB4.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405065691487" ignored="false" />
+    <file path="/OperatorTaskMBPB_4.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405412648511" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMBPB_4.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569064699" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskMBPB_3.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569468368" ignored="false" />
+    <file path="/OperatorTaskMBPB_3.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405138282060" ignored="false" />
+    <file path="/operatortaskmoverbpb2cekrak.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405415458190" ignored="false" />
+    <file path="/operatortaskmoverbpb2getcountskubaranginonebin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405155700684" ignored="false" />
+    <file path="/operatortaskmoverbpb2cekskubindest.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405158647253" ignored="false" />
+    <file path="/operatortaskmoverbpb2cekskued.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405408858986" ignored="false" />
+    <file path="/operatortaskmoverbpb2updatebinsku.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405412281601" ignored="false" />
+    <file path="/operatoroutstanding.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405313279455" ignored="false" />
+    <file path="/a.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405319131338" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatoroutstanding.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405323044274" ignored="false" />
+    <file path="/operatoroutstanding.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405323044274" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorMenuOutStanding.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405326037741" ignored="false" />
+    <file path="/OperatorMenuOutStanding.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405330145593" ignored="false" />
+    <file path="/operatoroutstandingreceive.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405328174574" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorOutStandingMenu.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405736478657" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatoroutstandingreceive.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405329040013" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorOutStandingRcv.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569247555" ignored="false" />
+    <file path="/OperatorOutStandingRcv.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405331708633" ignored="false" />
+    <file path="/OperatorTaskPPCK_1.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406190066497" ignored="false" />
+    <file path="/listoperatortaskreceivebpb1.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405565983747" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/CustomSimpleAdapter.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405674401530" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/DBHandler.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569094068" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/NetConStatus.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405569163950" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/.idea/workspace.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405592923290" ignored="false" />
+    <file path="/download.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405582672160" ignored="false" />
+    <file path="$PROJECT_DIR$/../bcpstorage/download.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405583524963" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskPPCK_2.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406189462002" ignored="false" />
+    <file path="/OperatorTaskPPCK_2.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406189449216" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskpickingpck2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405655584856" ignored="false" />
+    <file path="/operatortaskpickingpck2.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405585120045" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskpickingpck2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405656307052" ignored="false" />
+    <file path="/listoperatortaskpickingpck2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405655755551" ignored="false" />
+    <file path="/operatortaskpickingpck2.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405654594507" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskpickingpck3.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405752566469" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskPPCK_3.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406017009164" ignored="false" />
+    <file path="/OperatorTaskPPCK_3.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406017001593" ignored="false" />
+    <file path="/OperatorOutStandingMenu.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405736352374" ignored="false" />
+    <file path="D:/xampp/htdocs/WMS/application/models/login_model.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405671903605" ignored="false" />
+    <file path="/operatortaskpickingpckgetoutstanding.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405735838767" ignored="false" />
+    <file path="/CustomSimpleAdapter.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405674400754" ignored="false" />
+    <file path="/operatortaskpickingpck3.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405751204261" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/listoperatortaskpickingpck3.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405752260243" ignored="false" />
+    <file path="/listoperatortaskpickingpck3.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405752260243" ignored="false" />
+    <file path="/operatortaskpickingpck4cekbin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405919490625" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskPPCK_4.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405931198109" ignored="false" />
+    <file path="/OperatorTaskPPCK_4.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1405930645046" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskpickingpck4.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1405928768988" ignored="false" />
+    <file path="/operatortaskpickingpckupdatetaruhbin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405929986726" ignored="false" />
+    <file path="/operatortaskpickingpck4suggestion.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1405996669325" ignored="false" />
+    <file path="/operatortaskpickingpckpck1cekbin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1406014331477" ignored="false" />
+    <file path="/operatortaskpickingpck1cekbin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1406086866094" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/src/com/bcp/WMSAndroid/OperatorTaskPPCK_2AmbilBrg.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406189759444" ignored="false" />
+    <file path="/operatortaskpickingpckambilcekbin.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1406107645593" ignored="false" />
+    <file path="/OperatorTaskPPCK_2AmbilBrg.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1406189673727" ignored="false" />
+    <file path="D:/Yogi/Developer/WMSAndroid/res/layout/operatortaskpickingpck2ambilbrg.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1406173253744" ignored="false" />
+    <file path="/operatortaskpickingpcksetambilbarang.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1406177851398" ignored="false" />
+    <file path="/pelanggan.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1408694341813" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/res/menu/dfa_actionbar.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1407835914165" ignored="false" />
+    <file path="/dfa_actionbar.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1407835911254" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/MainActivity.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408696048825" ignored="false" />
+    <file path="/delivery.php" changelist="adefc787-2652-453f-901a-54096f904981" time="1408679494485" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/test.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408693298091" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/AndroidManifest.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1408952320521" ignored="false" />
+    <file path="/test.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408693286469" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/gen/com/bcp/DFA/R.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408693301265" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/gen/com/bcp/DFA/Manifest.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408693301265" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/DeliveryOrder.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408703186726" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/ActivityMain.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408952391904" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/ActivityMainMenu.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408952320521" ignored="false" />
+    <file path="/ActivityMain.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1408952391052" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/FN_DBHandler.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410148406721" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/ActivityDeliveryOrder.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410151036056" ignored="false" />
+    <file path="/ActivityDeliveryOrder.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410151026403" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/AdapterPelangganListView.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410149946645" ignored="false" />
+    <file path="/AdapterPelangganListView.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410149930945" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/res/layout/l_pelanggan.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1410149862627" ignored="false" />
+    <file path="/l_pelanggan.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1410149862627" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/DataPelanggan.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410150309919" ignored="false" />
+    <file path="/DataPelanggan.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410150308468" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/src/com/bcp/DFA/ActivityPelanggan.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410150428323" ignored="false" />
+    <file path="/ActivityPelanggan.java" changelist="adefc787-2652-453f-901a-54096f904981" time="1410150381242" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/res/layout/p_deliveryorder.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1410150969653" ignored="false" />
+    <file path="/p_deliveryorder.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1410150862479" ignored="false" />
+    <file path="E:/Yogi/Developer/DFA/res/layout/d_filterkkpdv.xml" changelist="adefc787-2652-453f-901a-54096f904981" time="1410151064764" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ws" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfa/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="16" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfatest/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="8" selection-start="175" selection-end="517" vertical-scroll-proportion="-9.807693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delivery.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dfatest/delivery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="52" selection-start="581" selection-end="581" vertical-scroll-proportion="0.29366603">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/operatortaskpickingpck4cekbin.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpck4cekrak.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpckupdatetaruhbin.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpck4updatetaruhbin.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpck4suggestion.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpckpck1cekbin.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpck1cekbin.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpckambilcekbin.php" />
+        <option value="$PROJECT_DIR$/operatortaskpickingpcksetambilbarang.php" />
+        <option value="$PROJECT_DIR$/dfatest/uploadfile.php" />
+        <option value="$PROJECT_DIR$/dfatest/pelanggan.php" />
+        <option value="$PROJECT_DIR$/dfatest/index.php" />
+        <option value="$PROJECT_DIR$/dfatest/login.php" />
+        <option value="$PROJECT_DIR$/dfa/index.php" />
+        <option value="$PROJECT_DIR$/dfa/delivery.php" />
+        <option value="$PROJECT_DIR$/dfatest/delivery.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dfatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adefc787-2652-453f-901a-54096f904981" name="Default" comment="" />
+      <created>1402976010357</created>
+      <updated>1402976010357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19545455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="FaTPlugin" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/operatortaskmoverbpb2cekrak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="77" selection-start="1337" selection-end="1337" vertical-scroll-proportion="0.3622951" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operatortaskreceivebpb2getrakslot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="428" selection-end="441" vertical-scroll-proportion="0.24558587" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operatortaskmoverbpb2caribin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="269" selection-start="2682" selection-end="2682" vertical-scroll-proportion="0.98688525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operatormenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="789" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operatortaskpickingpcksetambilbarang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="54" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.52007645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operatortaskpickingpckambilcekbin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="90" selection-start="866" selection-end="866" vertical-scroll-proportion="0.31716418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operatortask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="65" selection-start="0" selection-end="705" vertical-scroll-proportion="0.3250478" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1169" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setting/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfatest/pelanggan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="704" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfatest/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.063432835">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfa/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfa/delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfatest/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="8" selection-start="175" selection-end="517" vertical-scroll-proportion="-9.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfatest/delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="581" selection-end="581" vertical-scroll-proportion="0.29366603">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
